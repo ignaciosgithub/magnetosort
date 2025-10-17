@@ -1,0 +1,1 @@
+Magnetosort by Ignacio Alfredo Savi Gualco is distributed as is. no guarantees and the requirement to give credit is a must. Although the work is AI formatted , the core idea and principal of the algorithm is a product of human work.
